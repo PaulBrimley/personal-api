@@ -1,0 +1,76 @@
+
+module.exports = [
+	{
+		"name": "Donald Duck",
+		"location": "New York",
+		"occupations": ["Dog walker", "Clean up streets", "Mowing Lawns"],
+		"hobbies": [
+			{
+				"name": "Watching cartoons",
+				"type": "current"
+			},
+			{
+				"name": "Reading",
+				"type": "past"
+			},
+			{
+				"name": "Mountain Biking",
+				"type": "past"
+			},
+			{
+				"name": "Piano",
+				"type": "past"
+			},			
+		]
+	},
+	{
+		"name": "Bugs Bunny",
+		"location": "Los Angeles",
+		"occupations": ["Making hammers", "Sawing logs", "Sewing"],
+		"hobbies": [
+			{
+				"name": "Sky diving",
+				"type": "past"
+			},
+			{
+				"name": "Riding in the red flyer",
+				"type": "current"
+			},
+			{
+				"name": "Building paper airplanes",
+				"type": "past"
+			},
+			{
+				"name": "Picking grapes",
+				"type": "past"
+			},			
+		]
+	},
+	{
+		"name": "Dave",
+		"location": "Provo",
+		"occupations": ["Flippin burgers", "picking cherries", "Throwing tomahawks", "Street sweeping"],
+		"hobbies": [
+			{
+				"name": "Writing novels",
+				"type": "past"
+			},
+			{
+				"name": "Teaching coding",
+				"type": "current"
+			},			
+		]
+	},
+	{
+		"name": "Taz",
+		"location": "Australia",
+		"occupations": ["Eating animals"],
+		"hobbies": [
+			{
+				"name": "Eating Animals",
+				"type": "current"
+			},	
+		]
+	},
+]
+	
